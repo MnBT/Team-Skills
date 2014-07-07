@@ -1,4 +1,4 @@
-<h1>Please look through my main professional skills as a front-end developer</h1>
+<h1>Please look through our main professional skills as a team</h1>
 <p>Make a request for complete list of skills or about details on specific one if interested</p>
 
 <h2>Front-End:</h2>
@@ -69,5 +69,3 @@
 </ul>
 
 ---------------
-
-<h3>Make a request for complete list of skills if interested</h3>
