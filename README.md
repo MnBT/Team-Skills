@@ -22,8 +22,8 @@
       <li>Angular.js</li>
       <li>Knockout.js</li>
       <li>Marionettejs</li>
-      <li>Chaplinjs</li>
-      <li>Requirejs</li>
+      <li>Chaplin.js</li>
+      <li>Require.js</li>
       <li>Lo-Dash</li>
       <li>Grunt.js</li>
     </ul>
@@ -78,5 +78,7 @@
   <li>SVN</li>
   <li>Mercurial</li>
 </ul>
+
+---------------
 
 <h3>Make a request for complete list of skills if interested</h3>
