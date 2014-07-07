@@ -1,5 +1,5 @@
 <h1>Please look through my main professional skills as a front-end developer</h1>
-<p>Make a request for complete list of skills if interested</p>
+<p>Make a request for complete list of skills or about details on specific one if interested</p>
 
 <h2>Front-End:</h2>
 <ul>
