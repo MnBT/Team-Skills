@@ -1,7 +1,5 @@
 <h1>Please look through my main professional skills as a front-end developer</h1>
 
--------
-
 <h2>Front-End:</h2>
 <ul>
   <li>HTML 5 / XHTML 1.0 Strict</li>
@@ -31,11 +29,10 @@
     </ul>
 </ul>
 
--------
 
 <h2>Back-End</h2>
 <ul>
-  <li>PHP5>
+  <li>PHP5</li>
     <ul>
       <li>Yii</li>
       <li>Zend 1/2</li>
@@ -65,3 +62,21 @@
       <li>Grunt.js</li>
     </ul>
 </ul>
+
+<h2>Data Bases</h2>
+<ul>
+  <li>MySQL</li>
+  <li>MS SQL</li>
+  <li>PostgreSQL</li>
+  <li>NoSQL</li>
+  <li>MongoDB</li>
+</ul>
+
+<h2>Version Control</h2>
+<ul>
+  <li>Git</li>
+  <li>SVN</li>
+  <li>Mercurial</li>
+</ul>
+
+<h3>Make a request for complete list of skills if interested</h3>
