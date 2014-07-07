@@ -49,18 +49,6 @@
       <li>Flask</li>
     </ul>
   <li>Node.js</li>
-    <ul>
-      <li>Native JS</li>
-      <li> jQuery / jQuery UI</li>
-      <li>Backbone.js</li>
-      <li>Angular.js</li>
-      <li>Knockout.js</li>
-      <li>Marionettejs</li>
-      <li>Chaplinjs</li>
-      <li>Requirejs</li>
-      <li>Lo-Dash</li>
-      <li>Grunt.js</li>
-    </ul>
 </ul>
 
 <h2>Data Bases</h2>
