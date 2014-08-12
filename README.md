@@ -18,8 +18,8 @@
     </ul>
   <li>JavaScript</li>
     <ul>
-      <li style="width:150px">CofeeScript</li>
-      <hr\><li>Native JS</li>
+      <li>CofeeScript</li>
+      <hr\ style="width:150px"><li>Native JS</li>
       <li> jQuery / jQuery UI</li>
       <li>Backbone.js</li>
       <li>Angular.js</li>
