@@ -5,9 +5,10 @@
 <ul>
   <li>HTML 5 / XHTML 1.0 Strict</li>
     <ul>
-      <li>Twitter Bootstrap / Foundation</li>
+      <li>Twitter Bootstrap / Zurb Foundation</li>
       <li>HAML</li>
       <li>Emblem.js</li>
+      <li>Slim</li>
     </ul>
   <li>CSS 3 (transition / animation)</li>
     <ul>
@@ -17,7 +18,8 @@
     </ul>
   <li>JavaScript</li>
     <ul>
-      <li>Native JS</li>
+      <li>CofeeScript</li>
+      <br\><li>Native JS</li>
       <li> jQuery / jQuery UI</li>
       <li>Backbone.js</li>
       <li>Angular.js</li>
