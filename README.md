@@ -19,7 +19,7 @@
   <li>JavaScript</li>
     <ul>
       <li>CofeeScript</li>
-      <hr style="width:150px"><li>Native JS</li>
+      <br><li>Native JS</li>
       <li> jQuery / jQuery UI</li>
       <li>Backbone.js</li>
       <li>Angular.js</li>
